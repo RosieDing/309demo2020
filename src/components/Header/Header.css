@@ -1,0 +1,57 @@
+#Header {
+	height: 170px;
+	margin-left: 100px;
+	margin-right: 78px;
+	margin-top: 80px;
+	display: block;
+	overflow: auto;
+
+}
+
+#Header_Main {
+	float: right;
+}
+
+#Logo {
+    /* display: inline-block; */
+    float: left;
+    
+}
+
+.Header_Text {
+	padding-right: 27px;
+	padding-left: 27px;
+    font-weight: bold;
+	font-size: 25px;
+}
+
+/*
+Text Button Image Style Here
+*/
+
+.Title {
+	padding-bottom: 50px;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+.Subtitle{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.Button {
+  border-radius: 30px;
+  background: rgba(112,112,112,1);
+  width: 250px;
+  height: 60px;
+	font-family: Lato;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	line-height: 55px
+}
+
+.Image_Holder {
+	background: rgba(229,229,229,1);
+}
